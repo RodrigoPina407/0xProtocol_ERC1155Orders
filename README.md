@@ -4,7 +4,7 @@
   Allows to create `Buy` or `Sell` ERC1155 orders
   
   ### [Order]:    
-  `'order': {
+  'order': {
         'direction': 0,
         'maker': '0x68ae1B82F4A463Ea8d2Ca3c0Dc9cCe39411B4719',
         'taker': '0x0000000000000000000000000000000000000000',
@@ -23,7 +23,7 @@
             's': '0x2f5fa8aa28a6ab1937cf71d640ba7dfb8b9dcbe91d0d5c42ec73d8057adf40e0',
             'v': 28
         }
-    }`
+    }
   
   
   ### [OrderHash]: 
