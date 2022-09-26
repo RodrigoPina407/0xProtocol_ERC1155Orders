@@ -1,7 +1,7 @@
 # 0xProtocol_ERC1155Orders
  
  ## create_order.py
-  Allows to create `Buy` or `Sell` ERC1155 orders
+  Allows to create `Buy` or `Sell` ERC1155 orders. The order's hash is calculated using the getERC1155OrderHash(). Calculating the order's hash off-chain would improve performance because it would prevent multiple calls to the Exchange Proxy in the case of creating multiple orders.
   
   ### [Order]: 
   
