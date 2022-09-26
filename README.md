@@ -3,7 +3,8 @@
  ## create_order.py
   Allows to create `Buy` or `Sell` ERC1155 orders
   
-  ### [Order]: `    'order': {
+  ### [Order]: `    
+  'order': {
         'direction': 0,
         'maker': '0x68ae1B82F4A463Ea8d2Ca3c0Dc9cCe39411B4719',
         'taker': '0x0000000000000000000000000000000000000000',
@@ -25,7 +26,8 @@
     }`
   
   
-  ### [OrderHash]: `b'\xb8\xe1\xe9\x8e\xb2\x94\xa5\xabw\xc1\x98\x8b\xe0\x84e\xa3\x03\xf0I\xb2\xc6\x91\x04x\x15\xab2\x01l\x88\x012'`
+  ### [OrderHash]: 
+  `b'\xb8\xe1\xe9\x8e\xb2\x94\xa5\xabw\xc1\x98\x8b\xe0\x84e\xa3\x03\xf0I\xb2\xc6\x91\x04x\x15\xab2\x01l\x88\x012'`
   
 
 ## fill_ordersERC1155.py
